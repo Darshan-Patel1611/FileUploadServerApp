@@ -51,11 +51,6 @@ The application consists of the following files:
 ## Dependencies
 
 - Express: Web application framework for Node.js.
-- Multer: Middleware for handling file uploads.
+- Express-Fileupload: Middleware for handling file uploads.
 - Cloudinary: Cloud-based image and video management service.
 - Nodemailer: Module for sending emails.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
